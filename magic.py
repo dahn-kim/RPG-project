@@ -8,7 +8,6 @@ class Magic:
         self.name = name
         self.mp_cost = mp_cost
         self.dmg = dmg
-        self.type = type
         self.high_dmg = dmg + 15
         self.low_dmg = dmg - 15
         self.magic_type = magic_type
